@@ -109,3 +109,22 @@
 
 **Notes**:
 User ID in Palo Alto
+---
+
+## 📌 Qeydlər
+
+- VM quraşdırması zamanı 5-6 dəqiqə gözləmək lazımdır
+- İlkin şifrə: `admin` / `admin`
+- Management interfeysi üçün DHCP istifadə etməyin, statik IP verin
+- WAN interfeysi üçün DHCP client seçin
+
+---
+
+## 🔗 Faydalı linklər
+
+- [Palo Alto Documentation](https://docs.paloaltonetworks.com)
+- [URL Filtering Test](https://urlfiltering.paloaltonetworks.com)
+
+---
+
+*Bu qeydlər real laboratoriya təcrübələri əsasında hazırlanmışdır.*
